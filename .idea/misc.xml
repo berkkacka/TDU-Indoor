@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/drawable/cellborder.xml" value="0.1" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/drawable/ic_app_background.xml" value="0.22763157894736843" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/drawable/ic_tdunav_background.xml" value="0.22763157894736843" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_bus.xml" value="0.2" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_bus_tab.xml" value="0.10964912280701754" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_calendar.xml" value="0.1" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_main.xml" value="0.17647058823529413" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_maps.xml" value="0.10964912280701754" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_mensa.xml" value="0.1" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_nav.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/fragment1_layout.xml" value="0.10964912280701754" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/fragment2_layout.xml" value="0.10964912280701754" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/fragment_bus_tab.xml" value="0.10964912280701754" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/layout/main_fragment.xml" value="0.152" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/menu/toolbar_menu.xml" value="0.1" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/mipmap-anydpi-v26/ic_tdunav.xml" value="0.12412280701754386" />
+        <entry key="..\:/Users/90531/AndroidStudioProjects/TDUIndoor/app/src/main/res/xml/network_security_config.xml" value="0.21403508771929824" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.17647058823529413" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
